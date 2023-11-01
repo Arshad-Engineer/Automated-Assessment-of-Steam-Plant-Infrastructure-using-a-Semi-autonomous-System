@@ -8,7 +8,8 @@ Addressing the issues from the current process, a new system called - ‘Automat
 It comprises a thermal camera, Lidar and GPS/IMU interfaced with a computer, that can be mounted on a UMD Facilities vehicle. 
 
 This vehicle can be driven around the specified path in the campus manually and eventually autonomously. 
-![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure/assets/112987383/670055d8-697c-4751-a930-55c26207b40b)
+![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure-using-a-Semi-autonomous-System/assets/112987383/b6d217f7-7d35-42b9-a28d-5156b2fb48a3)
+
 
 
 The installed system detects the manhole covers, that come across its path, & records their temperatures & then automatically uploads the data to the GIS server system, with far less human intervention and overhead than existing process.
