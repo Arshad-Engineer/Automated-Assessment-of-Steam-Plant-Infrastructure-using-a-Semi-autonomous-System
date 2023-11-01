@@ -18,11 +18,11 @@ It uses a combination of sensors to create a system that can automatically detec
 
 This system can help to improve safety by preventing causalities by heated manhole covers, and it can also help to reduce maintenance costs by making it easier to find and repair leaking manhole covers.
 
-![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure-for-UMD-Facilities-Management/assets/112987383/3ddc48b0-8fb2-466d-b3f4-c47b3b407d45)
+![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure-using-a-Semi-autonomous-System/assets/112987383/7fd298e7-6c0d-4dcc-a0fb-61151fa1aeb3)
+
 
 # Thermal Camera:
-![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure/assets/112987383/f216de91-3451-4068-b757-a343eea6b43d)
+![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure-using-a-Semi-autonomous-System/assets/112987383/469af4cc-883b-4752-a1bf-9edb83f4a59c)
 
-![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure/assets/112987383/1e0496c8-f192-4245-ae66-57ce24721410)
 
 
