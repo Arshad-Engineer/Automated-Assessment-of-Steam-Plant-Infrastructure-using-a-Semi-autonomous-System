@@ -18,6 +18,9 @@ It uses a combination of sensors to create a system that can automatically detec
 
 This system can help to improve safety by preventing causalities by heated manhole covers, and it can also help to reduce maintenance costs by making it easier to find and repair leaking manhole covers.
 
+The real-world demo can be found here:
+https://drive.google.com/file/d/1eCiMwLJEpOAM4ckz6rV-zQy77d6OSsLk/view?usp=drive_link 
+
 ![image](https://github.com/Arshad-Engineer/Automated-Assessment-of-Steam-Plant-Infrastructure-using-a-Semi-autonomous-System/assets/112987383/7fd298e7-6c0d-4dcc-a0fb-61151fa1aeb3)
 
 
